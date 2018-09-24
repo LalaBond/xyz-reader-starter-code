@@ -19,9 +19,12 @@
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="theme_primary_dark">#308C48</color>
+    <color name="theme_accent">#00390F</color>
+    <color name="theme_text_title">#11732F</color>
     <color name="ltgray">#ffe0e0e0</color>
-    <color name="dark_gray">#373737</color>
+    <color name="dark_gray">#0C374D</color>
     <color name="navy_gray">#4A6572</color>
+    <color name="fab_icon_color">#ab0b17</color>
+
 </resources>
